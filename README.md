@@ -2,8 +2,7 @@
 - 👀 I’m passionate about leveraging data science and statistical modeling to uncover insights and make data-driven decisions. 
 - 🌱 I’m diving deeper into statistical modeling and predictive analytics to enhance my expertise and build robust, scalable solutions.
      Additionally, I'm always looking to improve my programming skills.
-- 📫 Reach me
-  Linkedin : Jawhara Chafi
+- 📫 Reach me in Linkedin : Jawhara Chafi
 - ⚡ Fun fact: I love discovering new ways to interpret data—it’s like solving a puzzle every time! 
 
 <!---
